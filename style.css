@@ -1,0 +1,18 @@
+h3
+{
+    color: darkblue;
+}
+h2
+{
+    color: darkblue;
+}
+body
+{
+    font-size: 20px;
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    border-color: white;
+}
